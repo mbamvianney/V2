@@ -1,0 +1,11 @@
+Vardas Pavarde ND1 ND2 ND3 ND4 ND5 Egz.
+Jonas Jonaitis 8 9 10 8 9 9
+Ona Onaite 4 5 6 4 5 4
+Petras Petraitis 10 10 9 10 9 10
+Ieva Ievaite 6 7 8 6 7 8
+Tomas Tomaitis 2 3 4 5 2 3
+Rasa Rasiene 9 8 9 10 10 9
+Mantas Mantaitis 5 5 5 5 5 5
+Laura Lauraite 7 6 7 8 7 8
+Simas Simaitis 3 2 4 3 2 3
+Austeja Austejaite 10 9 10 9 10 10
